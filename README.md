@@ -38,4 +38,4 @@ We appreciate feedback and suggestions to enhance our website's user experience.
 
 Our website content, unless otherwise specified, is proprietary to JKM Construction Limited. Use of any material from this website must be approved by our team.
 
-Thank you for visiting JKM Construction Limited's website!
+Thank you for visiting JKM Construction Limited's website!!
