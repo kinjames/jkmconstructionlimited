@@ -41,6 +41,7 @@ Welcome to JKM Construction Limited's website! We are a dynamic and innovative c
 We appreciate feedback and suggestions to enhance our website's user experience. If you have any ideas or encounter any issues while navigating our site, please feel free to contact us using the information provided in the "Contact Us" section.
 
 ## Screenshots
+<p>Desktop</p>
 
 ## License
 
