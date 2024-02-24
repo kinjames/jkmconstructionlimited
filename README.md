@@ -42,6 +42,7 @@ We appreciate feedback and suggestions to enhance our website's user experience.
 
 ## Screenshots
 <p>Desktop View</p>
+<p>Mobile View</p>
 
 ## License
 
